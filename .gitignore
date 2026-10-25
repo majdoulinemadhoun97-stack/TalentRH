@@ -147,3 +147,34 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Next.js
+**/node_modules/
+**/.next/
+**/out/
+
+# Spring Boot
+**/target/
+**/build/
+**/uploads/
+
+# Python
+**/__pycache__/
+**/.venv/
+**/venv/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Sensitive files
+*.pem
+*.key
+
+# Logs
+*.log
