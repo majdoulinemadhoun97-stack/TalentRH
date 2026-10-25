@@ -19,6 +19,29 @@ The platform allows candidates to apply for job opportunities and recruiters to 
 - Candidate-job matching and compatibility scoring
 - Candidate ranking based on job requirements
 
+
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+![Home Page - Additional View](screenshots/home2.png)
+
+### Login
+![Login Page](screenshots/login.png)
+
+![Login Page - Additional View](screenshots/login2.png)
+
+### Candidate Dashboard
+![Candidate Dashboard](screenshots/candidate-dashboard.png)
+
+![Candidate Dashboard - Additional View](screenshots/candidate-dashboard2.png)
+
+### Recruiter Dashboard
+![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+
+![Recruiter Dashboard - Additional View](screenshots/recruiter-dashboard2.png)
+
 ## Project Status
 Academic project , Development in progress.
 
